@@ -36,5 +36,5 @@ Part of these labs were completed during the "Cyber Security Lab" course at Bran
     24. Pseudo Random Number Generation (not yet added)
     25. Public-Key Infrastructure (not yet added)
   #### Part 6: Mobile Security
-    26. Android Repackaging Attack (not yet added)
+    26. Android Repackaging Attack
     27. Android Device Rooting Attack (not yet added)
