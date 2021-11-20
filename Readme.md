@@ -18,8 +18,8 @@ Part of these labs were completed during the "Cyber Security Lab" course at Bran
     09. Cross Site Scripting Attack (not yet added)
     10. SQL injection Attack
   #### Part 3: Hardware Security
-    11. Meltdown Attack (not yet added)
-    12. Spectre Attack (not yet added)
+    11. Meltdown Attack
+    12. Spectre Attack
   #### Part 4: Network Security
     13. Packet Sniffing and Spoofing (not yet added)
     14. TCP/IP Attack (not yet added)
